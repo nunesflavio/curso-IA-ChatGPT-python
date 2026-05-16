@@ -8,6 +8,16 @@
 # AWS User-specific
 .idea/**/aws.xml
 
+#API key para o curso
+/apiIntro/.env
+
+#ambiente virtual
+/.venv
+
+/temp
+
+registros.db
+
 # Generated files
 .idea/**/contentModel.xml
 
