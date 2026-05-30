@@ -10,6 +10,7 @@
 
 #API key para o curso
 /apiIntro/.env
+/front/.env
 
 #ambiente virtual
 /.venv
